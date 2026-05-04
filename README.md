@@ -483,7 +483,7 @@ class AppNotification {
 -  Multiple payment gateway support (Stripe, PayPal)
 -  Push notifications (Firebase Cloud Messaging)
 -  Withdraw funds to bank account
-- ⚙ Settings screen for user preferences
+-  Settings screen for user preferences
 -  Edit project functionality
 -  Two-factor authentication
 
