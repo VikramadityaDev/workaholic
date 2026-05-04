@@ -448,21 +448,6 @@ void openRazorpay(double amount) {
 
 ---
 
-### Notification Model
-```dart
-class AppNotification {
-  String id;
-  String title;
-  String message;
-  String type; // proposal, milestone, project, payment
-  DateTime timestamp;
-  bool isRead;
-  Map<String, dynamic>? data;
-}
-```
-
----
-
 ##  Known Issues & Future Enhancements
 
 ### Current Limitations
