@@ -43,48 +43,48 @@ Workaholic is a modern freelancing platform that implements milestone-based proj
 
 ### Authentication & Onboarding
 
-| Login Screen | Register Screen | Profile Setup |
-|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Profile Setup](screenshots/profile_setup.png) |
+|           Login Screen           | Register Screen | Profile Setup |
+|:--------------------------------:|:---:|:---:|
+| ![Login](screenshots/login.jpeg) | ![Register](screenshots/register.jpeg) | ![Profile Setup](screenshots/profile_setup.jpeg) |
 
 ### Client Dashboard & Projects
 
 | Client Dashboard | Create Project | My Projects |
 |:---:|:---:|:---:|
-| ![Dashboard](screenshots/client_dashboard.png) | ![Create](screenshots/create_project.png) | ![Projects](screenshots/my_projects.png) |
+| ![Dashboard](screenshots/client_dashboard.jpeg) | ![Create](screenshots/create_project.jpeg) | ![Projects](screenshots/my_projects.jpeg) |
 
 ### Proposals & Reviews
 
 | View Proposals | Review Submissions | Complete Project |
 |:---:|:---:|:---:|
-| ![Proposals](screenshots/proposals.png) | ![Review](screenshots/review_submissions.png) | ![Complete](screenshots/complete_project.png) |
+| ![Proposals](screenshots/proposals.jpeg) | ![Review](screenshots/review_submissions.jpeg) | ![Complete](screenshots/complete_project.jpeg) |
 
 ### Freelancer Dashboard & Work
 
 | Freelancer Dashboard | Available Projects | Assigned Projects |
 |:---:|:---:|:---:|
-| ![Freelancer Dash](screenshots/freelancer_dashboard.png) | ![Available](screenshots/available_projects.png) | ![Assigned](screenshots/assigned_projects.png) |
+| ![Freelancer Dash](screenshots/freelancer_dashboard.jpeg) | ![Available](screenshots/available_projects.jpeg) | ![Assigned](screenshots/assigned_projects.jpeg) |
 
 ### Payments & Transactions
 
 | Add Funds (Razorpay) | Transactions | Earnings |
 |:---:|:---:|:---:|
-| ![Add Funds](screenshots/add_funds.png) | ![Transactions](screenshots/transactions.png) | ![Earnings](screenshots/earnings.png) |
+| ![Add Funds](screenshots/add_funds.jpeg) | ![Transactions](screenshots/transactions.jpeg) | ![Earnings](screenshots/earnings.jpeg) |
 
 ### Notifications & Profile
 
 | Notifications | Freelancer Profile | Rate Freelancer |
 |:---:|:---:|:---:|
-| ![Notifications](screenshots/notifications.png) | ![Profile](screenshots/profile_view.png) | ![Rating](screenshots/rating.png) |
+| ![Notifications](screenshots/notifications.jpeg) | ![Profile](screenshots/profile_view.jpeg) | ![Rating](screenshots/rating.jpeg) |
 
 ---
 
 ##  Tech Stack
 
 ### Frontend
-- **Framework:** Flutter 3.24.5
-- **Language:** Dart 3.5.4
-- **State Management:** Riverpod 2.6.1
+- **Framework:** Flutter 3.38.5
+- **Language:** Dart 3.10.4
+- **State Management:** Riverpod 3.2.1
 - **UI Components:** 
   - flutter_screenutil (Responsive design)
   - flutter_svg (Vector graphics)
