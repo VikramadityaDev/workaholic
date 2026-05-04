@@ -489,22 +489,6 @@ class AppNotification {
 
 ---
 
-##  Testing
-
-### Running Tests
-```bash
-# Run all tests
-flutter test
-
-# Run with coverage
-flutter test --coverage
-
-# Run specific test file
-flutter test test/widget_test.dart
-```
-
----
-
 ## Build & Deployment
 
 ### Android Build
