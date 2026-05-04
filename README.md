@@ -43,39 +43,39 @@ Workaholic is a modern freelancing platform that implements milestone-based proj
 
 ### Authentication & Onboarding
 
-|           Login Screen           | Register Screen | Profile Setup |
-|:--------------------------------:|:---:|:---:|
-| ![Login](screenshots/login.jpeg) | ![Register](screenshots/register.jpeg) | ![Profile Setup](screenshots/profile_setup.jpeg) |
+|                  Login Screen                   |                  Register Screen                   |                      Profile Setup                      |
+|:-----------------------------------------------:|:--------------------------------------------------:|:-------------------------------------------------------:|
+| <img src="screenshots/login.jpeg" width="250"/> | <img src="screenshots/register.jpeg" width="250"/> | <img src="screenshots/profile_setup.jpeg" width="250"/> |
 
 ### Client Dashboard & Projects
 
-| Client Dashboard | Create Project | My Projects |
-|:---:|:---:|:---:|
-| ![Dashboard](screenshots/client_dashboard.jpeg) | ![Create](screenshots/create_project.jpeg) | ![Projects](screenshots/my_projects.jpeg) |
+|                      Client Dashboard                      |                      Create Project                      |                      My Projects                      |
+|:----------------------------------------------------------:|:--------------------------------------------------------:|:-----------------------------------------------------:|
+| <img src="screenshots/client_dashboard.jpeg" width="250"/> | <img src="screenshots/create_project.jpeg" width="250"/> | <img src="screenshots/my_projects.jpeg" width="250"/> |
 
 ### Proposals & Reviews
 
-| View Proposals | Review Submissions | Complete Project |
-|:---:|:---:|:---:|
-| ![Proposals](screenshots/proposals.jpeg) | ![Review](screenshots/review_submissions.jpeg) | ![Complete](screenshots/complete_project.jpeg) |
+|                   View Proposals                    |                      Review Submissions                      |                      Complete Project                      |
+|:---------------------------------------------------:|:------------------------------------------------------------:|:----------------------------------------------------------:|
+| <img src="screenshots/proposals.jpeg" width="250"/> | <img src="screenshots/review_submissions.jpeg" width="250"/> | <img src="screenshots/complete_project.jpeg" width="250"/> |
 
 ### Freelancer Dashboard & Work
 
-| Freelancer Dashboard | Available Projects | Assigned Projects |
-|:---:|:---:|:---:|
-| ![Freelancer Dash](screenshots/freelancer_dashboard.jpeg) | ![Available](screenshots/available_projects.jpeg) | ![Assigned](screenshots/assigned_projects.jpeg) |
+|                      Freelancer Dashboard                      |                      Available Projects                      |                      Assigned Projects                      |
+|:--------------------------------------------------------------:|:------------------------------------------------------------:|:-----------------------------------------------------------:|
+| <img src="screenshots/freelancer_dashboard.jpeg" width="250"/> | <img src="screenshots/available_projects.jpeg" width="250"/> | <img src="screenshots/assigned_projects.jpeg" width="250"/> |
 
 ### Payments & Transactions
 
-| Add Funds (Razorpay) | Transactions | Earnings |
-|:---:|:---:|:---:|
-| ![Add Funds](screenshots/add_funds.jpeg) | ![Transactions](screenshots/transactions.jpeg) | ![Earnings](screenshots/earnings.jpeg) |
+|                Add Funds (Razorpay)                 |                      Transactions                      |                      Earnings                      |
+|:---------------------------------------------------:|:------------------------------------------------------:|:--------------------------------------------------:|
+| <img src="screenshots/add_funds.jpeg" width="250"/> | <img src="screenshots/transactions.jpeg" width="250"/> | <img src="screenshots/earnings.jpeg" width="250"/> |
 
 ### Notifications & Profile
 
-| Notifications | Freelancer Profile | Rate Freelancer |
-|:---:|:---:|:---:|
-| ![Notifications](screenshots/notifications.jpeg) | ![Profile](screenshots/profile_view.jpeg) | ![Rating](screenshots/rating.jpeg) |
+|                      Notifications                      |                   Freelancer Profile                   |                 Rate Freelancer                  |
+|:-------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------:|
+| <img src="screenshots/notifications.jpeg" width="250"/> | <img src="screenshots/profile_view.jpeg" width="250"/> | <img src="screenshots/rating.jpeg" width="250"/> |
 
 ---
 
