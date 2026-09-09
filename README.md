@@ -91,7 +91,7 @@ Workaholic is a modern freelancing platform that implements milestone-based proj
   - intl (Date formatting & localization)
 
 ### Backend Integration
-- **API:** REST API (Node.js/Express backend)
+- **API:** REST API (Springboot)
 - **Authentication:** JWT Bearer tokens
 - **Storage:** flutter_secure_storage (Encrypted local storage)
 - **Payment Gateway:** Razorpay (Demo: `rzp_test_1DP5mmOlF5G5ag`)
